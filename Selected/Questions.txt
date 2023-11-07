@@ -1,0 +1,7 @@
+Should tech companies be allowed to track user data for the purpose of improving user experience despite the potential for privacy invasion?
+
+How can developers prevent inherent biases in algorithms when the data used to train AI models may be biased?
+
+Is it ethical for companies to replace human workers with automation if it leads to significant unemployment?
+
+Should artificial intelligence systems be used to make critical decisions in areas such as healthcare, finance, or law enforcement where human lives may be affected?
